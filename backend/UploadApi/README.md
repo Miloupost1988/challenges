@@ -29,7 +29,7 @@ Users should be able to upload files and manage them.
 
 ## NON-FUNCTIONAL requirements
 
-* Use out off-the-shelf components and frameworks (misc. Rails Components, ActiveStorage, Devise, Rspec, …)
+* Use off-the-shelf components and frameworks (misc. Rails Components, ActiveStorage, Devise, Rspec, …)
 * Create Unit and Integration tests
 * Add at least some README style docs for installing, setup and running the app
 
