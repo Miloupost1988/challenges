@@ -3,8 +3,9 @@
 Your task is to create a restful JSON backend API with Ruby. 
 Users should be able to upload files and manage them.
 
-"MUST Features" is the minimum needed to consider the task completed.
-"CAN Features" is extras that are on top of the minimum and are extra point during evaluation. 
+**MUST** Features is the minimum needed to consider the task completed.
+
+**CAN** Features is extras that are on top of the minimum and are extra point during evaluation.
 
 ## MUST Features
 
@@ -29,8 +30,8 @@ Users should be able to upload files and manage them.
 ## NON-FUNCTIONAL requirements
 
 * Use out off-the-shelf components and frameworks (misc. Rails Components, ActiveStorage, Devise, Rspec, …)
-* Have Unit and Integration tests
-* add at least some README style docs for installing, setup and running the app 
+* Create Unit and Integration tests
+* Add at least some README style docs for installing, setup and running the app
 
 ## Keep in mind:
 
