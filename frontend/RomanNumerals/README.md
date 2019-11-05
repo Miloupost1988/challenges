@@ -2,6 +2,8 @@
 
 Your task is to create a calculator that can add 2 Roman numerals together. The answer should also be represented as a Roman numeral.
 
+To submit your solution please [email us](mailto:knauseder@carlfinance.de) either an attachment or a link to a public repository.
+
 __Hint: Roman numerals only include whole numbers, except zero.__
 
 ### We expect
