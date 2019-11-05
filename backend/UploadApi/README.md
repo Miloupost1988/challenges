@@ -1,7 +1,6 @@
 # Upload API
 
-Your task is to create a restful JSON backend API with Ruby. 
-Users should be able to upload files and manage them.
+Your task is to create a restful JSON backend API with Ruby that allows users to upload files and manage them.
 
 **MUST** Features is the minimum needed to consider the task completed.
 
@@ -9,17 +8,12 @@ Users should be able to upload files and manage them.
 
 ## MUST Features
 
-* Authentication over API Key for all interactions
-* A file to be uploaded for a certain user account. 
-  * files have:
-    * a name
-    * a binary representation
-  * users have:
-    * an email address
-* A file can be deleted again after being uploaded
-* A file can be downloaded in their binary representation by only the uploading user
+* A user must be able to login (via email and password)
+* A user can upload a file to their account. The **name** and **binary** of the file must be stored
+* Uploads can be deleted
+* Uploads can be downloaded
 
-## CAN Features     
+## CAN Features
 
 * User registration
 * User management:
